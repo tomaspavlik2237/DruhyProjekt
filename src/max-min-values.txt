@@ -1,0 +1,2 @@
+States with miminum rate: [LU, MT, DE]
+States with maximum rate: [HU, DK, HR]
